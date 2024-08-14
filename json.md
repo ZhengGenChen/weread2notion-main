@@ -1,0 +1,5 @@
+# 参考资料
+<a src="https://forum-zh.obsidian.md/t/topic/8737">微读笔记</a>
+
+## book in books = get_notebooklist():
+book: {'<b>bookId</b>': '847050', '<b>book</b>': {'bookId': '847050', '<b>title</b>': '心理罪（全集）', '<b>author</b>': '雷米', 'cover': 'https://wfqqreader-1252317822.image.myqcloud.com/cover/50/847050/s_847050.jpg', 'version': 272831142, 'format': 'epub', 'type': 0, 'price': 51.41, 'originalPrice': 0, 'soldout': 0, 'bookStatus': 1, 'payType': 1048577, 'centPrice': 5141, 'finished': 1, 'free': 0, 'mcardDiscount': 0, 'ispub': 1, 'extra_type': 1, 'cpid': -17002, 'publishTime': '2015-03-01 00:00:00', '<b>categories</b>': [{'categoryId': 100000, 'subCategoryId': 100008, 'categoryType': 0, 'title': '精品小说-悬疑推理'}], 'authorVids': '20958856', 'hasLecture': 0, 'lastChapterIdx': 166, 'paperBook': {'skuId': '11622752'}, 'copyrightChapterUids': [2], 'blockSaveImg': 0, 'language': 'zh-CN', 'hideUpdateTime': False, 'isEPUBComics': 0, 'webBookControl': 0, 'selfProduceIncentive': False}, 'reviewCount': 0, 'reviewLikeCount': 0, 'reviewCommentCount': 0, 'noteCount': 1, 'bookmarkCount': 0, 'sort': 1705854283}
